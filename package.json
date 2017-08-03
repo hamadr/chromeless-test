@@ -1,0 +1,6 @@
+{
+    "name": "chromeless-test",
+    "dependencies": {
+        "chromeless": "1.1.0"
+    }
+}
